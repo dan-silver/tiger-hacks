@@ -10,7 +10,7 @@ Graph Explorer - https://developer.microsoft.com/graph/graph-explorer
 
 |                                                         |                                                                                           |
 |---------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|Connect with students, teachers and alumni               |[`GET https://graph.microsoft.com/v1.0/users?$filter=startsWith(displayName, 'Silver, Dan')`](user-search)|
+|Connect with students, teachers and alumni               |[`GET https://graph.microsoft.com/v1.0/users?$filter=startsWith(displayName, 'Silver, Dan')`][user-search]|
 |Search your network by topic                             |`GET https://graph.microsoft.com/v1.0/me/people?$search="topic: hack"&$select=displayName` |
 |Find my top connections among other students and faculty |`GET https://graph.microsoft.com/v1.0/me/people`                                           |
 |Bring profile photos into your hack                      |`GET https://graph.microsoft.com/v1.0/users/das2c3@mail.missouri.edu/photo/$value`         |
