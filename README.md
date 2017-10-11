@@ -20,7 +20,7 @@ Graph Explorer - https://developer.microsoft.com/graph/graph-explorer
 
 
 
-[topic-search]: https://developer.microsoft.com/en-us/graph/graph-explorer?request=me/people?$search="topic: homework"&$select=displayName&method=GET&version=v1.0
+[topic-search]: https://developer.microsoft.com/en-us/graph/graph-explorer?request=me/people?$search=%22topic:%20homework%22&$select=displayName&method=GET&version=v1.0
 
 [user-search]: https://developer.microsoft.com/en-us/graph/graph-explorer?request=users?$filter=startsWith(displayName,%20'Silver,%20Dan')&method=GET&version=v1.0&GraphUrl=https://graph.microsoft.com
 
