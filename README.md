@@ -1,10 +1,10 @@
 # Microsoft Graph @ Tiger Hacks
 Guide to hacking with the Microsoft Graph at Tiger Hacks
 
-## Getting Started 
-Documentation - https://developer.microsoft.com/graph
-
-Graph Explorer - https://developer.microsoft.com/graph/graph-explorer
+## Getting Started
+* Quick starts for Android, iOS, Node, PHP, etc. - https://developer.microsoft.com/graph/quick-start
+* Graph Explorer - https://developer.microsoft.com/graph/graph-explorer
+* Documentation - https://developer.microsoft.com/graph
 
 ## Curated API Queries
 
